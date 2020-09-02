@@ -1,0 +1,26 @@
+aluminium plate
+copper plate
+copper wire/coil
+glass
+fibreglass
+gold plate
+gilded copper wire/coil
+iron plate
+lead plate (low amount, lategame)
+nickel plate (low amount, lategame)
+mono silicon
+silicon wafer
+silver plate
+tin plate
+tined copper wire/coil
+tungsten plate
+tungsten carbide plate
+copper-tungsten plate
+zinc plate (low amount, lategame)steel plate
+solder / coil
+bronze plate
+brass plate
+gunmetal plate
+invar plate
+cobalt steel plate
+nitinol plate
