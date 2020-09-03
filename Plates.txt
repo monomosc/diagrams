@@ -6,7 +6,7 @@ fibreglass
 gold plate
 gilded copper wire/coil
 iron plate
-lead plate (low amount, lategame)
+lead plate
 nickel plate (low amount, lategame)
 mono silicon
 silicon wafer
