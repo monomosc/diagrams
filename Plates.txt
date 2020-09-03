@@ -16,7 +16,8 @@ tined copper wire/coil
 tungsten plate
 tungsten carbide plate
 copper-tungsten plate
-zinc plate (low amount, lategame)steel plate
+zinc plate (low amount, lategame)
+steel plate
 solder / coil
 bronze plate
 brass plate
